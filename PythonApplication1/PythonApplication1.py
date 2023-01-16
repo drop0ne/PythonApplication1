@@ -3,6 +3,7 @@ from youtube_dl.utils import DownloadError
 from tkinter import filedialog
 
 import gi
+
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk
 
